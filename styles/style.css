@@ -29,8 +29,9 @@ p.bold{
 body{
     background-color: lightblue; 
     width: 600px;
+    margin: 20px auto; /* center*/;
     padding: 0, 20px, 20px, 20px
-    margin: 20px auto; /* center*/
+    
 }
 img{
     width: 70%; 
