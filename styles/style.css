@@ -1,0 +1,43 @@
+html{
+    background-color: #0067B5
+    
+}
+h1 {
+    font-size:60px; 
+    text-align: center; 
+    
+}
+p{
+    font-size:16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+li{
+    font-size:16px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+.bold{
+    font-weight:bold; 
+}
+li.bold{
+    font-style:italic
+}
+p.bold{
+    text-decoration:underline; 
+}
+body{
+    background-color: lightblue; 
+    width: 600px;
+    padding: 0, 20px, 20px, 20px
+    margin: 20px auto; /* center*/
+}
+img{
+    width: 70%; 
+
+}
+div.coolbox{
+    margin: 10px; 
+    padding: 20px;
+    border: "lightblue dotted"
+}
