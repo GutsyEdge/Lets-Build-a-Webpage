@@ -27,7 +27,7 @@ p.bold{
     text-decoration:underline; 
 }
 body{
-    background-color: lightblue; 
+    background-color: cyan; 
     width: 600px;
     margin: 20px auto; /* center*/;
     padding: 0, 20px, 20px, 20px
