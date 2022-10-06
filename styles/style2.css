@@ -1,0 +1,29 @@
+html{
+    background-color:red; 
+}
+h1{
+    font-size: 65px;
+    text-align: center; 
+}
+p{
+    font-size:30px;
+    line-height: 2.5;
+    letter-spacing: 1.1px;
+}
+
+.names{
+    font-weight: bold; 
+    font-size: 40px; 
+}
+body{
+    
+    width: 600px;
+    margin: 20px auto; 
+    padding: 0, 25px, 25px, 25px; 
+    background-color: gray; 
+    
+}
+img{
+    width: 70%; 
+
+}
